@@ -1,0 +1,8 @@
+{
+    "name": "Link Issue/PR to project isg2",
+    "description": "Link Issue/PR to project isg2.",
+    "iconName": "suimin",
+    "filePatterns": [
+        ".*\\.md$"
+    ]
+}
