@@ -1,6 +1,6 @@
 ---
-name: test
-about: test
+name: テスト
+about: テスト
 ---
 
 ## hoge
